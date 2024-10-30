@@ -1,6 +1,7 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-minima
+markdown_ext: "md,html"
 
 header_pages:
 - index.md
