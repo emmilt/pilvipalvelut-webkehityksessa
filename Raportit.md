@@ -1,4 +1,4 @@
-[Sivustolle linkki]()
+[Sivustolle linkki](Lopputyo/index.html)
 
 ## Raportit
 
