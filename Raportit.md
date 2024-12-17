@@ -10,4 +10,6 @@
 
 ### Sivujen latautumisaika
 
-Mobiilissa latautumisajat ovat hieman huonot, mutta Desktopilla ne ovat todella hyvät.
+Mobiilissa ja tietokoneella sivut lautautuvat erinomaisesti.
+![Mobiili]()
+![Tietokone]()
